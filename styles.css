@@ -1,8 +1,8 @@
 body{
-    color: red; 
+    color: wheat; 
     background: black;
 }
 
 header {
-   border: solid 2px wheat
+   border: solid 2px red
 }
