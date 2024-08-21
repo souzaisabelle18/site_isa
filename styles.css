@@ -5,6 +5,17 @@ body{
 }
 
 header {
-   border-bottom: solid 2px red
+   border-bottom: solid 2px red;
+   
    padding: 20px;
+
+   font-size: 32px;
+
+   color: wheat;
+}
+
+section{
+   background: red ;
+   padding-bottom: 80px;
+   padding-top: 80px; 
 }
