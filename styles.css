@@ -48,14 +48,14 @@ p{
 }
 .categoria-videos img{
     opacity: 0.5;
-    height: 200px
+    height: 200px;
 }
 .categoria-videos img:houver{
     opacity: 1.0;
     border: 1px solid wheat; 
 }
 .categoria h2{
-    color: wheat
+    color: wheat;
 }
 
 
